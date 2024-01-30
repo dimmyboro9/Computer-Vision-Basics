@@ -4,6 +4,7 @@ There is a repository that contains my first computer vision projects using the 
 ## Projects
 - [Segmentation basics](#Segmentation-basics)
 - [Perspective transform](#Perspective-transform)
+- [Depth sensor](#Depth-sensor)
 
 ## Segmentation basics
 The goal of this task is to implement the **calculation of the shortest distance between rectangles** on a given source image.
@@ -18,3 +19,10 @@ In the first part, it is necessary to **geometrically transform** the image into
 The goal of the second task is to place the logo image on the building's wall, also using perspective transformation (see image).
 
 ![Fit Logo Merged](Perspective-Transform/fit_logo_merged.jpg)
+
+## Depth sensor
+This task focuses on utilizing data from a depth sensor for **measuring a person's BMI**.
+
+![Kinnect view](Depth-Sensor/images/kinect_view.png)
+
+`Copyright (c) Dmytro Borovko 2024`
